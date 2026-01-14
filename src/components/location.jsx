@@ -121,7 +121,7 @@ export default function Location() {
                 Pastikan hanya mengambil bagian url-nya saja (https://www.google.com/maps/embed?...)
              */}
              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.311272274037!2d108.98237118472323!3d1.1743061663074583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31e48398afc63e5f%3A0x771f9fa2b26b8a2d!2sRumah%20faqih%20Ibnu%20shiddiq!5e0!3m2!1sid!2sid!4v1768217748379!5m2!1sid!2sid"
+                src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1036.3962619479516!2d108.98349072514081!3d1.174254297836382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sid!2sid!4v1768401700142!5m2!1sid!2sid"
                width="100%" 
                height="100%" 
                style={{ border: 0 }} 
